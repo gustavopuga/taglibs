@@ -1,0 +1,17 @@
+# Eclipse specific files/directories
+.classpath
+.project
+.settings
+.metadata
+bin
+
+# Build output directies
+/target
+/build
+
+#VRaptor build
+src/main/webapp/classes
+src/main/webapp/WEB-INF/classes/
+
+# Miscellaneous
+*.log
